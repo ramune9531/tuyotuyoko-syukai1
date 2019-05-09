@@ -1,1 +1,0 @@
-# tuyotuyoko-syukai1
