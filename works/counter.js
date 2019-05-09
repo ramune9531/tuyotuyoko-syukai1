@@ -6,6 +6,4 @@ const countUp = () => {
 }
 const countReset = () => {
     count = 0
-    const countElement = document.querySelector('#count')
-  countElement.innerText = 0
 }
